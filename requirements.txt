@@ -31,7 +31,7 @@ statsmodels==0.6.1
 sympy==1.0
 tables==3.2.2
 tensorboard==1.6.0
-tensorflow==1.6.0
+tensorflow==2.5.0
 termcolor==1.1.0
 terminado==0.5
 toolz==0.7.4
